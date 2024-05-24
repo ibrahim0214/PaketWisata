@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "740453579726",
+    "project_id": "paketwisata-65ca0",
+    "storage_bucket": "paketwisata-65ca0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740453579726:android:b888f651f48b7b1db1499f",
+        "android_client_info": {
+          "package_name": "com.example.paketwisata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740453579726-fai12usj1r2pql8sfui7utoh0vcn5cec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAetIk4JohLTaPolV-F3lQjo7zkzLaGRNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740453579726-fai12usj1r2pql8sfui7utoh0vcn5cec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
